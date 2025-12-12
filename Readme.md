@@ -1,17 +1,17 @@
-# ��� Python Advanced
+# 🐍 Python Advanced
 
 This repository contains study materials and reference notes for the Python Advanced subject.
 
-## ��� About
+## 📖 About
 
 Collection of Python programming concepts, notes, and examples covering advanced topics.
 
-## ��� Topics Covered
+## 📚 Topics Covered
 
-- ��� Control Flow (Loops, Conditionals)
-- ��� Data Structures (Lists, Tuples, Dictionaries)
+- 🔄 Control Flow (Loops, Conditionals)
+- 📦 Data Structures (Lists, Tuples, Dictionaries)
 - ⚙️ Functions and Methods
-- ��� File I/O Operations
-- ��� Iterable Functions
-- ��� Type Conversions
-- ��� Object-Oriented Programming
+- 📁 File I/O Operations
+- 🔗 Iterable Functions
+- 🔀 Type Conversions
+- 🎯 Object-Oriented Programming
